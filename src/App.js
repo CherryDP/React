@@ -22,4 +22,18 @@ function App() {
   );
 }
 
+function Qwe() {
+  return(
+    <div>
+      <p>
+        jazda z koksem
+      </p>
+    </div>
+  );
+}
+
 export default App;
+
+export {
+  Qwe,
+}
